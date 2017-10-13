@@ -1,0 +1,18 @@
+{
+  "name": "sf-bot-test",
+  "scripts": {
+  },
+  "env": {
+      "HUBOT_SLACK_TOKEN": {
+          "value": "testing"
+      }
+  },
+  "formation": {
+  },
+  "addons": [
+      "papertrail"
+  ],
+  "buildpacks": [
+
+  ]
+}
