@@ -5,7 +5,7 @@
 module.exports = (robot) ->
 
   robot.respond /hi/gim, (res) ->
-    res.send "@prodbot hi"
+    res.send "@devilbot hi"
 
   # robot.respond /hello/gim, (res) ->
   #   res.send " > Hello!"
